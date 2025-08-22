@@ -9,7 +9,7 @@
 - 🎓 Engineering student passionate about **problem-solving & innovation**  
 - 💻 Building **projects that merge creativity, technology and social good**  
 - 🌱 Currently diving into **Machine Learning and Generative AI**  
-- 🎯 Goal: Become an impactful **Software Engineer and Ideator**  
+- 🎯 Goal: Become an impactful **Software Engineer & Ideator**  
 
 ---
 
