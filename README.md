@@ -1,16 +1,15 @@
 # hiders_code
-# 🌟 Hey there, I’m Hope!  
+# 🌟 Hey there, I’m Divyanshi!  
 
-💡 *Engineering Student | Developer | Designer | Tech Explorer*  
+💡 *Engineering Student | Ideator | Tech Explorer*  
 
 ---
 
 ## 🚀 About Me  
 - 🎓 Engineering student passionate about **problem-solving & innovation**  
-- 💻 Building **projects that merge creativity & technology**  
-- 🎨 Design enthusiast – *Figma is my go-to tool for ideas*  
-- 🌱 Currently diving into **Full-Stack Development & System Design**  
-- 🎯 Goal: Become an impactful **Software Engineer**  
+- 💻 Building **projects that merge creativity, technology and social good**  
+- 🌱 Currently diving into **Machine Learning and Generative AI**  
+- 🎯 Goal: Become an impactful **Software Engineer and Ideator**  
 
 ---
 
@@ -18,21 +17,13 @@
 
 **Languages:**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
 
-**Web Development:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) 
-![Express](https://img.shields.io/badge/Express.js-404D59?style=flat) 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
 
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
+ **Tools & Platforms:**  
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)  
+
+ 
 
 ---
 
@@ -72,11 +63,11 @@
 ## 🌍 Let’s Connect!  
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/paldivyanshi/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="kratidivya2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  
 </p>  
 
 ---
 
-✨ *“Keep building. Keep learning. Keep exploring.”*  
+ 
